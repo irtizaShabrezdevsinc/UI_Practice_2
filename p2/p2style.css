@@ -1,0 +1,96 @@
+.main{
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    background-color: rgb(183, 255, 231);
+}
+.main-title{
+    text-align: center;
+    /* color: brown; */
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-form{
+    width: 900;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+.top-text{
+    text-align: center;
+    /* margin-top: 5%; */
+    padding-top: 25px;
+    margin-bottom: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-left{
+    width: 450px;
+    background-color: white;
+    height: 432px;
+    float: left;
+    border-radius: 4px;
+    margin: auto;
+}
+.main-right{
+    width: 450px;
+    background-color: white;
+    margin: auto;
+    border-radius: 4px;
+    float: right;
+    /* box-sizing: border-box; */
+}
+.rigth{
+    width: 450px;
+    padding-top: 2%;
+    /* float: left; */
+    height: 150px;
+    /* border: 2px solid black; */
+    margin: auto;
+    /* background-color: violet; */
+}
+.left{
+    width: 450px;
+    height: 150px;
+    margin: auto;
+    /* float: left; */
+    /* background-color: yellow; */
+}
+.info-text{
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 9%;
+    padding-top: .5%;
+    margin-top: 2%;
+}
+.info-input{
+    /* border: 2px; */
+    width: 75%;
+    height: 30px;
+    margin-bottom: 6%;
+}
+.select-text{
+            
+    /* padding-right: 3px; */
+    text-align: right;
+    margin-top: 7%;
+    font-family: 'Courier New', Courier, monospace;
+    /* font-size: 11px; */
+}
+.select-style{
+    margin-top: 5%;
+    height: 30px;
+    width: 130px;
+}
+.second-select{
+    text-align: right;
+    margin-top: 11%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second-radio{
+    text-align: right;
+    margin-top: 7.5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.radio-style{
+    margin-top: 6%;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
